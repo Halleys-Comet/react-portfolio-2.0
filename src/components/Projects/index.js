@@ -1,8 +1,20 @@
 import React from "react";
+import webdev from "../../assets/0.png"
+
 
 function Projects () {
     return (
-        <h1>Projects</h1>
+        <section>
+            <div className="card" style={{width: 300}}>
+                <div className="card-divider">
+                    Header
+                </div>
+                <img src={webdev} alt=""/>
+                <div className="card-section">
+                    <h4>something</h4>
+                </div>
+            </div>
+        </section>
     )
 }
 
