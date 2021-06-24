@@ -5,7 +5,7 @@ import cocktail from "../../assets/1.png";
 
 function Projects () {
     return (
-        <section>
+        <section className ="grid-container">
             <div className="card" style={{width: 500}}>
                 <div className="card-divider">
                     WebDev
