@@ -30,10 +30,45 @@
     justify-content: center;
 }
 
-.grid-container {
+.contact-grid {
     display: grid;
     justify-content: space-evenly;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    width: 100vw;
+}
+
+.grid-1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+  }
+  
+  
+  .grid-2 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row: 1;
+  }
+  
+  
+  
+  .grid-3 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 2;
+  }
+  
+  
+  .grid-4 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row: 2;
+  }
 
 .contact-text {
     color: white;
