@@ -14,7 +14,7 @@ function Projects () {
                 </div>
                 <img src={webdev} alt=""/>
                 <div className="card-section">
-                    <h4>something</h4>
+                    <p>GitHub: <a href="https://github.com/mwpx777/webdev-gifts"> WebDev Gifts</a></p>
                 </div>
             </div>
             <div className="card grid-2" style={{width: 500}}>
@@ -33,6 +33,8 @@ function Projects () {
                 </div>
                 <img src={shop} alt=""/>
                 <div className="card-section">
+                    <h4>GitHub</h4>
+                    <p>stuff</p>
                 </div>
             </div>
             <div className="card grid-4" style={{width: 500}}>
