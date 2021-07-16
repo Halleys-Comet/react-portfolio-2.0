@@ -24,7 +24,7 @@ function Projects () {
                 <img src={cocktail} alt=""/>
                 <div className="card-section">
                     <h4>Drink UP!</h4>
-                    <p>The best app for when you are trying to find the perfect drink</p>
+                    <p>GitHub: <a href="https://github.com/IsiBee/cocktail-challenge"> Happy Hour</a></p>
                 </div>
             </div>
             <div className="card grid-3" style={{width: 500}}>
@@ -33,7 +33,7 @@ function Projects () {
                 </div>
                 <img src={shop} alt=""/>
                 <div className="card-section">
-                    <h4>GitHub</h4>
+                <p>GitHub: <a href="https://github.com/Halleys-Comet/shop-shop"> Shop-Shop</a></p>
                     <p>stuff</p>
                 </div>
             </div>
@@ -43,7 +43,7 @@ function Projects () {
                 </div>
                 <img src={budget} alt=""/>
                 <div className="card-section">
-                    <h4>Figure out your finances!</h4>
+                <p>GitHub: <a href="https://github.com/Halleys-Comet/budget-tracker"> Budget Tracker</a></p>
                 </div>
             </div>
             
