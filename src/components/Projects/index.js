@@ -14,7 +14,8 @@ function Projects () {
                 </div>
                 <img src={webdev} alt=""/>
                 <div className="card-section">
-                    <p>GitHub: <a href="https://github.com/mwpx777/webdev-gifts"> WebDev Gifts</a></p>
+                    <p><a href="https://github.com/mwpx777/webdev-gifts"> GitHub</a></p>
+                    <p><a href="https://github.com/mwpx777/webdev-gifts"> Deployed WebDev Gifts</a></p>
                 </div>
             </div>
             <div className="card grid-2" style={{width: 500}}>
@@ -24,7 +25,8 @@ function Projects () {
                 <img src={cocktail} alt=""/>
                 <div className="card-section">
                     <h4>Drink UP!</h4>
-                    <p>GitHub: <a href="https://github.com/IsiBee/cocktail-challenge"> Happy Hour</a></p>
+                    <p><a href="https://github.com/IsiBee/cocktail-challenge"> GitHub</a></p>
+                    <p><a href="https://IsiBee.github.io/cocktail-challenge/"> Deployed Happy Hour</a></p>
                 </div>
             </div>
             <div className="card grid-3" style={{width: 500}}>
@@ -33,8 +35,8 @@ function Projects () {
                 </div>
                 <img src={shop} alt=""/>
                 <div className="card-section">
-                <p>GitHub: <a href="https://github.com/Halleys-Comet/shop-shop"> Shop-Shop</a></p>
-                    <p>stuff</p>
+                <p><a href="https://github.com/Halleys-Comet/shop-shop"> GitHub</a></p>
+                <p><a href="https://radiant-dawn-62478.herokuapp.com/"> Deployed Shop-Shop</a></p>
                 </div>
             </div>
             <div className="card grid-4" style={{width: 500}}>
@@ -43,7 +45,8 @@ function Projects () {
                 </div>
                 <img src={budget} alt=""/>
                 <div className="card-section">
-                <p>GitHub: <a href="https://github.com/Halleys-Comet/budget-tracker"> Budget Tracker</a></p>
+                <p><a href="https://github.com/Halleys-Comet/budget-tracker"> GitHub</a></p>
+                <p><a href="https://thawing-escarpment-06609.herokuapp.com/"> Deployed Budget Tracker</a></p>
                 </div>
             </div>
             
