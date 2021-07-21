@@ -9,7 +9,8 @@ function About () {
         <ul >
             <li>Hang out with friends</li>
             <li>Take the motorcycle out for a ride</li>
-            <li></li>
+            <li>Snowboard</li>
+            <li>Work on the house (sometimes)</li>
         </ul>
         </div>
     )
